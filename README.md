@@ -1,6 +1,5 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
 
 ####Hópmeðlimir####
 
@@ -10,11 +9,11 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Uppsetning á Virtual Box og Linux gekk snurðulaust fyrir sig. Eftir að hafa installað Virtual Boxinu sótti ég Ubuntu Linux kerfi sem ég svo installaði í gegnum Virtual Boxið. Öll uppsetning gekk einsog áður sagði afar vel fyrir sig og engin alvarleg vandamál stóðu í vegi mínum.
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Uppsetning á vim og git gekk einstaklega vel, með einni Terminal skipun er allt uppsett og tilbúið til keyrslu.
 
 ## 3. Unnið með Git (1. hluti)
 
